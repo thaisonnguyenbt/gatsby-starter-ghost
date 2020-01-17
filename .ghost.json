@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://thaisonnguyen.ghost.io",
+    "contentApiKey": "1b2426b856088b107ed7c1220a"
+  },
+  "production": {
+    "apiUrl": "https://thaisonnguyen.ghost.io",
+    "contentApiKey": "1b2426b856088b107ed7c1220a"
+  }
+}
